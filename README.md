@@ -29,11 +29,9 @@ organization: Kodovye
 role:         Developer / Security Researcher
 focus:
   - Vision-Language модели и AI-агенты
-  - Image-to-Code (Figma / скриншот → код)
   - Offensive security, OSINT, Red Team tools
 stack:        Python, JS/TS, Bash
 currently:    изучаю, как LLM меняют ИБ и фронтенд
-fun_fact:     🍅 помидор — это ягода
 ```
 
 <br clear="right"/>
