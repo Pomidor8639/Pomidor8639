@@ -26,22 +26,13 @@ focus:
   - Reverse Engineering
 stack:        [C, C++, Python, Java]
 currently:    Focused on reverse engineering and low-level development
-quote:        "Write code, break code, fix code."
 ```
 
 ---
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-
-<div align="center">
-
-<i>"Write code, break code, fix code."</i>
-
-</div>
+- C
+- C++
+- Python
+- Java
