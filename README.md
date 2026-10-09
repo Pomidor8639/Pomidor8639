@@ -32,7 +32,11 @@ currently:    Focused on reverse engineering and low-level development
 
 ### Languages
 
-- C
-- C++
-- Python
-- Java
+```c
+const char *languages[] = {
+    "C",
+    "C++",
+    "Python",
+    "Java"
+};
+```
