@@ -20,7 +20,6 @@
 
 ```yaml
 user:         Pomidor8639
-organization: Kodovye (@Kodovye)
 role:         Reverse Engineer
 focus:
   - Reverse Engineering
